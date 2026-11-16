@@ -1,4 +1,4 @@
-site_name: Event
+site_name: Talk to your Data with CoWork
 nav:
   - Event:
       - index.md
