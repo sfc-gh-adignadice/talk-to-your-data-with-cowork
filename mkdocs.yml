@@ -1,6 +1,6 @@
 site_name: Talk to your Data with CoWork
 nav:
-  - Event:
+  - Lab Guide:
       - index.md
       - getting_started.md
       - act1.md
@@ -17,10 +17,9 @@ plugins:
       on_error_fail: false
       on_undefined: keep
       verbose: true
-  #- search
+  - search
   - offline
   - glightbox
-  #- search
   - print-site
 theme:
   name: material
